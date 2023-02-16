@@ -23,7 +23,7 @@ public class ListasTipoPila {
                 +"1. Insertar un nodo\n"
                 +"2. Eliminar un nodo\n"
                 +"3. La pila esta vacia?\n"
-                +"4. Cual es el ultimo calor ingresado de la pila\n"
+                +"4. Cual es el ultimo valor ingresado de la pila\n"
                 +"5. Cuantos nodos tiene la pila?\n"
                 +"6. Vaciar pila\n"
                 +"7. Mostrar contenido de la pila\n"
